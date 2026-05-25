@@ -1,200 +1,325 @@
-# 🚀 Project Portfolio: Modern Web & Data Solutions
+# Hi, I'm JC de las Alas 👋  
+### Data Analytics Manager · AI Product Builder · Founder · Educator
 
-Welcome to my professional portfolio showcasing full-stack applications and data science projects developed to solve real-world problems across healthcare, franchising, public service, ESG, and agriculture.
+I build data products, AI-powered business systems, automation platforms, and learning experiences that turn complex problems into usable digital tools.
 
----
+By day, I work in enterprise data analytics and data governance. Outside corporate work, I build SaaS products, AI tools, educational platforms, and real-world web applications through **AHA Innovations**, **Millennial Business Innovations**, and **Millennial Business Academy**.
 
-## 🦷 DentiNexus Clinic Suite  
-**Live:** [https://denti-nexus-clinic-suite.vercel.app/](https://denti-nexus-clinic-suite.vercel.app/)
+My work sits at the intersection of:
 
-### 🔍 Overview  
-DentiNexus is a modern, fully responsive dental clinic management system designed for private and multi-branch dental clinics. It streamlines patient handling, appointments, treatment tracking, and billing in a user-friendly dashboard.
-
-### ✨ Key Features
-- Patient registration and record management  
-- Interactive dental chart for treatment history  
-- Appointment scheduling with calendar view  
-- Role-based access for admin, staff, and dentists  
-- Secure login and session handling
-
-### 🧰 Tech Stack
-- Frontend: React.js, Tailwind CSS  
-- Backend: Node.js (Planned), Firebase/Auth0 (TBD)  
-- Deployment: Vercel
+- **Data Analytics & Governance**
+- **AI Product Development**
+- **Workflow Automation**
+- **Business Systems**
+- **Education Technology**
+- **Startup Execution**
 
 ---
 
-## 🏢 Franchise Front-Runner Portal  
-**Live:** [https://franchise-front-runner-portal.vercel.app/](https://franchise-front-runner-portal.vercel.app/)
+## 🚀 Latest Featured Work
 
-### 🔍 Overview  
-A modular and customizable franchise management platform built to streamline how businesses scale multiple franchises like food carts, coffee shops, and lifestyle brands.
+### 🌐 [jcdelasalas.org](https://www.jcdelasalas.org/)  
+**Personal Brand, Portfolio, and Professional Authority Hub**
 
-### ✨ Key Features
-- Branded franchise pages (e.g., Siomai, Coffee, Burger)  
-- Package selector (Starter to Premium) with detailed inclusions  
-- Franchise application workflow with lead capture  
-- Franchisee onboarding and training content module  
-- Fully adaptable to any type of franchise business
+My main digital home as a data analytics leader, AI product developer, educator, and founder. This website brings together my professional experience, selected products, speaking engagements, teaching background, and startup work into one polished platform.
 
-### 🧰 Tech Stack
-- Frontend: Next.js, Tailwind CSS  
-- Backend: Supabase (Planned), Firebase (Optional)  
-- Deployment: Vercel
+It is designed not only as a portfolio, but as a credibility engine for recruiters, collaborators, clients, students, and business partners who want to understand the kind of systems I build and the kind of problems I solve.
 
----
+**Highlights**
+- Professional profile and career story
+- Experience across enterprise, startups, and education
+- Featured projects and live product links
+- Speaking, teaching, and community highlights
+- Contact and collaboration section
 
-## 🏙️ Dasma Digital Future Portal  
-**Live:** [https://dasma-digital-future.vercel.app/](https://dasma-digital-future.vercel.app/)
-
-### 🔍 Overview  
-A citizen engagement and smart governance portal built for the City of Dasmariñas, showcasing digital services, government projects, and public communication tools.
-
-### ✨ Key Features
-- Interactive project map and city development updates  
-- Citizen feedback and complaint submission system  
-- Directory of public digital services  
-- News and announcements panel  
-- Downloadable forms and quick links to e-services
-
-### 🧰 Tech Stack
-- Frontend: Next.js, Tailwind CSS  
-- Backend: Firebase / Strapi (Planned)  
-- Deployment: Vercel
+**Why it matters:**  
+This is the central proof-of-work hub that connects my technical background, founder journey, and educator identity into one public-facing brand.
 
 ---
 
-## 💍 MyWedding Website  
-**Live:** [https://ac-wedding.vercel.app/](https://ac-wedding.vercel.app/)
+## 🧠 Featured Projects
 
-### 🔍 Overview  
-A personalized wedding website designed to deliver essential information to guests and enhance event planning. This serves both as a creative showcase and a functional tool for real-life wedding coordination.
+### 🧩 [AHA Innovations](https://www.aha-innovations.com/)  
+**All-in-One CRM, Automation, Funnel, and Business Operating Platform**
 
-### ✨ Key Features
-- Couple profile and countdown timer  
-- RSVP form with attendance tracking  
-- Location map and Google Calendar integration  
-- Dress code and gifting details  
-- Mobile-optimized responsive layout
+AHA Innovations is a business automation platform designed to help entrepreneurs, service providers, coaches, agencies, and small businesses manage leads, automate follow-ups, build funnels, and organize customer relationships in one system.
 
-### 🧰 Tech Stack
-- Frontend: Next.js, Tailwind CSS  
-- Backend: Static/Serverless  
-- Deployment: Vercel
+The core idea is simple: many businesses do not need more leads first. They need a better system to capture, track, follow up, book, and convert the leads they already receive.
 
----
+**What it solves**
+- Scattered leads across Messenger, Instagram, forms, spreadsheets, and inboxes
+- Manual follow-ups that cause missed sales
+- Disconnected tools for marketing, CRM, booking, and payments
+- Lack of operational visibility for small business owners
 
-## 🌾 AgriVita Pulse: Livestock Management System  
-**Live:** [https://agri-vita-pulse.vercel.app/](https://agri-vita-pulse.vercel.app/)
+**Key capabilities**
+- CRM and pipeline management
+- Funnel and landing page builder
+- Automated follow-up workflows
+- Booking and appointment tools
+- Lead capture and customer tracking
+- AI-assisted business automation use cases
 
-### 🔍 Overview  
-A smart livestock management system to help farmers and cooperatives digitize operations and monitor livestock health, growth, and inventory in real time.
-
-### ✨ Key Features
-- Real-time livestock count by breed and location  
-- Monthly trends of births, mortality, and sales  
-- Integrated health monitoring dashboard  
-- Weather and feed supply tracking (planned)  
-- Role-based access for admins and field agents
-
-### 🧰 Tech Stack
-- Frontend: Next.js, Tailwind CSS  
-- Backend: Supabase (Planned)  
-- Data: PostgreSQL (planned for structured tracking)  
-- Deployment: Vercel
+**Why it matters:**  
+AHA Innovations reflects my direction as a founder: building practical AI and automation systems that help businesses operate with more structure, speed, and consistency.
 
 ---
 
-## 💧 HydroSense Pulse: Wastewater Treatment Management System  
-**Live:** [https://hydro-sense-pulse.vercel.app](https://hydro-sense-pulse.vercel.app)
+### 🎮 [BizLingo](https://biz-lingo.vercel.app/)  
+**Gamified Entrepreneurship Learning App for Filipinos**
 
-### 🔍 Overview  
-HydroSense Pulse is a cutting-edge wastewater treatment monitoring system for industrial, residential, and government facilities. Designed to be licensed to wastewater companies, it ensures compliance and real-time insights.
+BizLingo is a Duolingo-inspired learning platform for entrepreneurship, designed especially for Filipino learners who want to understand business in a more practical, engaging, and beginner-friendly way.
 
-### ✨ Key Features
-- Dynamic dashboard for pH, turbidity, BOD, and TSS levels  
-- Alert system for parameter breaches  
-- Daily treatment logs with export functionality  
-- Admin panel with secure login (Planned)  
-- Support for IoT sensor integration (Planned)
+Instead of overwhelming users with long lectures, BizLingo breaks business education into short, interactive lessons that help aspiring entrepreneurs learn concepts step by step.
 
-### 🧰 Tech Stack
-- Frontend: Next.js, Tailwind CSS  
-- Backend: Supabase (Planned), Firebase Auth (Planned)  
-- Deployment: Vercel
+**What it teaches**
+- Entrepreneurial mindset
+- Business basics
+- Money discipline
+- Sales and customer understanding
+- Registration and compliance foundations
+- Operations and growth concepts
 
----
+**Key capabilities**
+- Bite-sized business lessons
+- Gamified learning flow
+- Progress-based experience
+- Filipino-focused examples and scenarios
+- Beginner-friendly entrepreneurship path
 
-## 📊 Livestock Data Analytics & Forecasting  
-**Type:** Data Science Research Project  
-**Tools:** Python, Tableau, Excel, SQL, Scikit-learn, Statsmodels
-
-### 🔍 Overview  
-A comprehensive data science project aimed at analyzing, forecasting, and visualizing livestock inventory and market prices in the Philippines. This initiative is focused on empowering farmers, government bodies, and agricultural stakeholders with data-driven insights.
-
-### 📁 Key Modules
-#### 1. Livestock Inventory Forecasting
-- Time series forecasting using SARIMA and Facebook Prophet  
-- Forecast accuracy evaluated with RMSE and MAE  
-- Seasonal trends and year-over-year growth rates
-
-#### 2. Livestock Price Prediction
-- Regression modeling using XGBoost and Random Forest  
-- Features include region, type, season, and economic indicators  
-- Impact of inflation, feed cost, and fuel prices explored
-
-#### 3. Cluster Analysis by Region
-- Unsupervised clustering with K-Means and Hierarchical Clustering  
-- t-SNE visualization to identify pricing and supply behavior clusters  
-- Silhouette and Davies-Bouldin evaluation scores
-
-#### 4. Data Dashboard & Storytelling
-- Tableau dashboards for price and inventory monitoring  
-- Regional comparison, seasonality insights, and trend analysis
-
-### 🧰 Tools & Technologies
-| Area        | Tools Used                           |
-|-------------|---------------------------------------|
-| Programming | Python, Pandas, NumPy, Scikit-learn   |
-| Forecasting | Statsmodels, Pmdarima, Prophet        |
-| Clustering  | K-Means, t-SNE, Silhouette Evaluation |
-| Reporting   | Tableau, Power BI                     |
-
-### 📚 Data Sources
-- [Philippine Statistics Authority (PSA)](https://psa.gov.ph/)
-- Preprocessing via Excel, SQL, Python
-
-### 🎯 Use Cases
-- Project future supply-demand gaps  
-- Recommend pricing strategies  
-- Support agricultural policymaking  
-- Identify regional disparities
-
-### 📜 License
-Licensed under the **MIT License**.
+**Why it matters:**  
+BizLingo is built around a belief I strongly hold: business education should not feel intimidating. It should feel accessible, practical, and motivating enough for people to keep learning.
 
 ---
 
-## 🧠 Skills Snapshot
+### 🇵🇭 [Lakbay Lokal](https://v0-lakbay-lokal.vercel.app/)  
+**Community-Powered Travel Planning Platform for the Philippines**
 
-| Domain        | Tools / Stack                                     |
-|---------------|---------------------------------------------------|
-| Frontend      | React.js, Next.js, Tailwind CSS                   |
-| Backend       | Firebase, Supabase (Planned), Node.js (Planned)  |
-| Deployment    | Vercel                                            |
-| Data Science  | Python, Pandas, NumPy, Scikit-learn, Tableau      |
-| Forecasting   | SARIMA, Prophet, pmdarima                         |
-| ML/Clustering | XGBoost, Random Forest, KMeans, t-SNE             |
-| Reporting     | Tableau, Power BI                                 |
-| Database      | PostgreSQL, SQL, Firebase Realtime DB             |
+Lakbay Lokal is a travel discovery and itinerary-building platform focused on local tourism in the Philippines. It helps users explore destinations, discover local businesses, and build travel plans based on interests, location, and trip duration.
+
+The vision is to create a platform where travelers, local businesses, and communities can connect through curated experiences.
+
+**What it solves**
+- Hard-to-plan local trips
+- Hidden destinations that lack digital visibility
+- Disconnected tourism information
+- Limited exposure for local businesses and experience providers
+
+**Key capabilities**
+- Destination discovery
+- Itinerary planning
+- Local business listings
+- Interest-based recommendations
+- Community-powered travel ideas
+- Tourism-focused marketplace direction
+
+**Why it matters:**  
+Lakbay Lokal combines tourism, community, and technology. It is a product concept that can support both travelers and local businesses by making Philippine destinations easier to discover and experience.
 
 ---
 
-## 📫 Contact  
-📧 Email: jcedrick.delasalas@gmail.com  
-🌐 Portfolio: https://jc-de-las-alas-portfolio.vercel.app/  
-📱 LinkedIn: https://www.linkedin.com/in/john-cedrick-de-las-alas-277242196
+### 💰 [Wealth Organizer](https://wealth-organizer.vercel.app/)  
+**Personal Finance and Wealth Tracking Dashboard**
+
+Wealth Organizer is a personal finance dashboard designed to help users track money, organize assets, monitor financial goals, and build better visibility over their financial life.
+
+The purpose is to make wealth-building more intentional by giving users a clearer view of where their money goes, what they own, and what they are working toward.
+
+**What it helps users manage**
+- Income and expenses
+- Savings goals
+- Assets and liabilities
+- Net worth tracking
+- Financial planning habits
+- Personal money organization
+
+**Key capabilities**
+- Finance dashboard interface
+- Wealth tracking structure
+- Goal-oriented money organization
+- Clean and simple user experience
+- Personal finance visibility
+
+**Why it matters:**  
+This project reflects my interest in financial systems, data-driven decision-making, and tools that help people make better long-term choices with money.
 
 ---
 
-> *This README serves as a master portfolio index for selected live applications and data projects. For detailed documentation, view each project’s individual repository.*
+### 💍 [Cedrick & Alisa Wedding Website](https://ac-wedding-v3.vercel.app/)  
+**Personalized Wedding Website and Guest Information Hub**
+
+A modern wedding website built to centralize event details, guest information, countdowns, schedules, venue details, and RSVP-related content in one elegant digital experience.
+
+This project shows how simple web applications can make real-life events more organized, beautiful, and easier to manage.
+
+**Key capabilities**
+- Wedding event details
+- Couple story and visual sections
+- Countdown experience
+- Guest information hub
+- Mobile-friendly design
+- Modern event website layout
+
+**Why it matters:**  
+Not every project has to be enterprise-scale to be meaningful. This one shows how technology can turn a personal milestone into a polished and useful digital experience.
+
+---
+
+### 🌏 [Women Economic Forum ASEAN 2025](https://women-economic-forum.vercel.app/)  
+**Event Website for Global Women Leaders and Economic Empowerment**
+
+A modern event website concept for Women Economic Forum ASEAN 2025, built to present the event’s mission, speakers, agenda, and leadership positioning through a professional digital platform.
+
+The project focuses on credibility, clarity, and event storytelling for a regional leadership audience.
+
+**Key capabilities**
+- Event landing page
+- Speaker and agenda sections
+- Professional conference branding
+- Responsive layout
+- Leadership-focused visual structure
+
+**Why it matters:**  
+This project highlights my ability to create event platforms that feel credible, modern, and aligned with high-level professional communities.
+
+---
+
+### 🏢 [Millennial Business Innovations](https://www.millennialbusinessinnovations.com/)  
+**Software Development and Digital Innovation Company**
+
+Millennial Business Innovations is my software and digital solutions company focused on helping founders, organizations, and businesses transform ideas into real digital products.
+
+The company represents my broader work in software development, automation, AI-enabled systems, business platforms, and product execution.
+
+**Focus areas**
+- Custom software development
+- Web application development
+- Business automation systems
+- AI-powered product concepts
+- Startup MVP development
+- Digital transformation solutions
+
+**Why it matters:**  
+Millennial Business Innovations is the execution arm for turning ideas into working systems. It represents my builder identity beyond employment, education, and content creation.
+
+---
+
+## 🧪 Other Selected Builds and Concepts
+
+These projects reflect my broader interest in healthcare, public service, agriculture, sustainability, analytics, and business operations.
+
+| Project | Description |
+|---|---|
+| **DentiNexus Clinic Suite** | A dental clinic management system concept for patient records, appointments, treatment tracking, and clinic operations. |
+| **Franchise Management System** | A platform concept for managing franchise packages, applications, onboarding, and franchisee operations. |
+| **HydroSense Pulse** | A wastewater treatment monitoring system concept for compliance tracking, treatment logs, and environmental operations. |
+| **AgriVita Pulse** | A livestock management system concept for animal inventory, health tracking, farm monitoring, and agricultural decision-making. |
+| **Dasma Digital Future** | A smart city and citizen engagement portal concept for public service access, announcements, and local government modernization. |
+| **Livestock Price Forecasting Research** | A data science research project using forecasting, machine learning, and analytics to study livestock prices and agricultural trends in the Philippines. |
+
+---
+
+## 🛠️ Core Skills and Tools
+
+### Data, Analytics, and Governance
+- SQL
+- Data Analytics
+- Data Governance
+- Data Quality
+- Business Intelligence
+- Dashboard Development
+- Data Storytelling
+- Tableau
+- Power BI
+- Excel
+- Python
+
+### AI, Software, and Product Development
+- AI Product Development
+- Prompt Engineering
+- Workflow Automation
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Node.js
+- Cloud Database
+- REST APIs
+- Vercel
+
+### Business, Education, and Strategy
+- SaaS Strategy
+- Startup MVP Development
+- Digital Product Strategy
+- Business Automation
+- Training and Facilitation
+- Curriculum Design
+- Public Speaking
+- Technical Mentorship
+
+---
+
+## 📌 What I Am Building Toward
+
+I am focused on building useful AI and data-powered systems for:
+
+- Filipino entrepreneurs
+- Small and medium businesses
+- Students and career shifters
+- Local communities
+- Government modernization
+- Business education
+- Enterprise analytics teams
+
+My long-term direction is to create products that are not only technically impressive, but also practical enough for real people and real organizations to use.
+
+---
+
+## 🧭 My Builder Philosophy
+
+> Technology should not only look innovative.  
+> It should make work easier, decisions clearer, and opportunities more accessible.
+
+I believe the best systems are the ones that help people move faster without making them feel lost.
+
+That is why I build with three principles:
+
+1. **Clarity before complexity**  
+   A product should make the next step obvious.
+
+2. **Usefulness before hype**  
+   AI and automation should solve real problems, not just sound impressive.
+
+3. **Execution before perfection**  
+   The fastest way to learn is to build, test, improve, and ship.
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: [jcdelasalas.org](https://www.jcdelasalas.org/)
+- 🏢 AHA Innovations: [aha-innovations.com](https://www.aha-innovations.com/)
+- 🏢 Millennial Business Innovations: [millennialbusinessinnovations.com](https://www.millennialbusinessinnovations.com/)
+- 💼 LinkedIn: [John Cedrick de las Alas](https://www.linkedin.com/in/john-cedrick-de-las-alas)
+- 📧 Email: [jcedrick.delasalas@gmail.com](mailto:jcedrick.delasalas@gmail.com)
+
+---
+
+## ⚡ Current Focus
+
+I am currently building and refining products around:
+
+- AI-powered business automation
+- Gamified entrepreneurship education
+- Data analytics and governance
+- Local tourism technology
+- Personal finance systems
+- Startup MVP development
+- Digital transformation for Filipino businesses
+
+---
+
+### Thanks for visiting my GitHub profile.
+
+I build, teach, experiment, and ship.  
+The goal is simple: create technology that helps people grow, work smarter, and turn ideas into reality.
